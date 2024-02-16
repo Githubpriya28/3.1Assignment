@@ -1,2 +1,2 @@
 # 3.1Assignment
-Creating a REST api using Mean stack
+Creating a REST api using Mean stack.
